@@ -1,18 +1,18 @@
-# scope-base
+# loop-build
 
 Lua utilities
 
 ## Install
 
 ```bash
-git clone https://github.com/omarnovak36/scope-base.git
-cd scope-base
+git clone https://github.com/omarnovak36/loop-build.git
+cd loop-build
 ```
 
 ## Usage
 
 ```bash
-python -m scope_base --help
+python -m loop_build --help
 ```
 
 ## License
